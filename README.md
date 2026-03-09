@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# students-table
+🚀  📚 Students Table – React CRUD Application  A simple Students Management Table built using React.js that demonstrates CRUD operations (Create, Read, Update, Delete) completely on the frontend using local state and JSON data.  This project was developed as part of a Full Stack Assignment (Frontend Mandatory, Backend Optional Bonus).
+>>>>>>> 191a98698e69e781cd2853b829364926deefd65c
